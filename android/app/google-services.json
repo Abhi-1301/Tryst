@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843624354645",
+    "project_id": "tryst-b7758",
+    "storage_bucket": "tryst-b7758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843624354645:android:8f39313eda49537c67d5dc",
+        "android_client_info": {
+          "package_name": "com.abhi.tryst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843624354645-b06dgd4jao4ejrhcr4gkvn7go493i0sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB42iPKd9FmUKbbammSiBOYw89VF4fpV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843624354645-b06dgd4jao4ejrhcr4gkvn7go493i0sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
